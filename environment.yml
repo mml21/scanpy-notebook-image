@@ -47,4 +47,7 @@ dependencies:
    - rpy2==3.2.4
    - leidenalg==0.7.0
    - plotly==4.4.1
+   - scrublet
+   - bbknn
+   - scvelo
    - git+https://github.com/flying-sheep/anndata2ri
